@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khoiuna&style=flat-square)
 
-**My Personal Stuffs:**
+### My Personal Stuffs:
 
 - 💼 I’m getting my Bachelor's Degree in Computer Information Systems at [University of North Alabama](https://una.edu/).
 - 🤔 My interests are Web Development and Finance.
