@@ -8,7 +8,7 @@
 - 🤔 My interests are Web Development and Finance.
   <br/>
 
-### Worked with
+### Worked with:
 
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
@@ -22,7 +22,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 
-### GitHub Stats
+### GitHub Stats:
 
 <p align="center">
   <a href = "https://github.com/khoiuna">
@@ -30,7 +30,7 @@
   </a>
  </p>
 
-### Top Languages
+### Top Languages:
 
 <p align="center">
 <a href = "https://github.com/khoiuna">
@@ -38,6 +38,6 @@
 </a>
 </p>
 
-### Follow me
+### Follow me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-khoiuna-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoiuna/)](https://www.linkedin.com/in/khoiuna/) [![Instagram Badge](https://img.shields.io/badge/-@khoi.una/-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/khoi.una/)](https://www.instagram.com/khoi.una/)
