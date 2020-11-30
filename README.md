@@ -5,7 +5,7 @@
 ### My Personal Stuffs:
 
 - 💼 I’m getting my Bachelor's Degree in Computer Information Systems at [University of North Alabama](https://una.edu/).
-- 🤔 My interests are Web Development and Finance.
+- 🤔 My interests are working with Web Development and learning about Finance.
   <br/>
 
 ### Worked with:
