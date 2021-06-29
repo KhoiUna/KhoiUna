@@ -1,8 +1,8 @@
-## Hi everyone, I'm [Khoi Nguyen](https://bit.ly/khoiuna) from Vietnam! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/khoiuna?style=social)
+## Hi everyone, I'm [Khoi Nguyen](https://bit.ly/khoiuna) from Vietnam! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khoiuna&style=flat-square)
 
-### My Personal Stuffs:
+### My Personal Stuff:
 
 - 💼 I’m getting my Bachelor's Degree in Computer Information Systems at [University of North Alabama](https://una.edu/).
 - 🤔 My interests are Web Development and Entrepreneurship.
@@ -18,14 +18,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"></code>
-
-### GitHub Stats:
-
-<p align="center">
-  <a href = "https://github.com/khoiuna">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=khoiuna&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
 
 ### Top Languages:
 
