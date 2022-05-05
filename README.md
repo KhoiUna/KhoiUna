@@ -1,4 +1,4 @@
-## Hi everyone, I'm [Khoi Nguyen](https://bit.ly/khoiuna_links) from Vietnam! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi everyone, I'm [Khoi Nguyen](https://bit.ly/khoiuna_links)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khoiuna&style=flat-square)
 
