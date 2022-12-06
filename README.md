@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> Hi everyone, I'm [Khoi Nguyen](https://www.khoiuna.info/)!
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> Hi, I'm [Khoi Nguyen](https://www.khoiuna.info/)!
 
 ## Introduction:
 - 💼 I am getting my Double Degree BBA Computer Information Systems and BS Information Technology in Cybersecurity at [University of North Alabama](https://una.edu/).
