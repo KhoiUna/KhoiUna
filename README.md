@@ -1,4 +1,4 @@
-# Hi, I'm [Khoi Nguyen](https://www.khoiuna.info/)!
+# 👋 Hi, I'm Khoi Nguyen
 
 ## Introduction:
 - 💼 I am getting my Double Degree BS in Information Technology and BBA in Management Information Systems at the [University of North Alabama](https://una.edu/).
