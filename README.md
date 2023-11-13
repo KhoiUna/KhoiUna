@@ -4,11 +4,11 @@
 
 ## Introduction
 
-👋 Hi, I'm [Khoi](https://www.khoiuna.info/).
+👋 Hi, I'm [Khoi](https://www.imkhoi.com).
 
 🤔 My interests are Software Engineering, Cybersecurity, and Entrepreneurship.
 
-✍️ I am blogging at [KHOI | Blog](https://blog.khoiuna.info/).
+✍️ I am blogging at [KHOI | Blog](https://blog.imkhoi.com/).
 
 🎥 Check out my YouTube channel: [Tech & Startups](https://www.youtube.com/channel/UCo3A3_8jiHnepCQnb9aBtjQ?sub_confirmation=true).
 
