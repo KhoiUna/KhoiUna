@@ -10,7 +10,7 @@
 
 ✍️ I am blogging at [KHOI | Blog](https://blog.imkhoi.com/).
 
-🎥 Check out my YouTube channel: [Tech & Startups](https://www.youtube.com/channel/UCo3A3_8jiHnepCQnb9aBtjQ?sub_confirmation=true).
+🎥 Check out my YouTube channel: [Tech & Startups](https://www.youtube.com/@tech.startups?sub_confirmation=true).
 
 ## My Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khoiuna&langs_count=5&theme=tokyonight)]()
