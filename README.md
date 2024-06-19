@@ -1,6 +1,6 @@
 # Khoi Nguyen
 
-🧑‍💻 technophile | 🌐 decentralization | 🐧 linux • open source • cybersecurity
+🧑‍💻 technophile | 🐧 linux • open source • cybersecurity
 
 ## Introduction
 
