@@ -1,7 +1,5 @@
 # Khoi Nguyen
 
-🧑‍💻 technophile | 🐧 linux • open source • cybersecurity
-
 ## Introduction
 
 👋 Hi, I'm [Khoi](https://www.imkhoi.com).
